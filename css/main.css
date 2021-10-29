@@ -1720,6 +1720,12 @@ header .logo a {
 	position: relative;
 	overflow: hidden;
 }
+
+.folio-item-title{
+	margin-top: 1rem;
+	color: black;
+}
+
 #portfolio .folio-item img {
 	vertical-align: middle;
 	-moz-transition: all 0.5s ease-in-out;
