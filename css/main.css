@@ -1729,10 +1729,16 @@ header .logo a {
 
 .folio-item-skills{
 	display: flex;
+	margin-bottom: 2rem;
+}
+
+.folio-item-skills i {
+	margin-right: 1rem;
 }
 
 .folio-description{
 	margin-top: 0px !important;
+	margin-bottom: 1rem;
 }
 
 #portfolio .folio-item img {
