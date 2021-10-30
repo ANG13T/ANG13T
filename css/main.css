@@ -1724,6 +1724,15 @@ header .logo a {
 .folio-item-title{
 	margin-top: 2rem;
 	color: black;
+	margin-bottom: 1rem;
+}
+
+.folio-item-skills{
+	display: flex;
+}
+
+.folio-description{
+	margin-top: 0px !important;
 }
 
 #portfolio .folio-item img {
