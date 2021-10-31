@@ -497,12 +497,18 @@ textarea {
 	flex-wrap: wrap;
   }
   .card {
+	  cursor: pointer;
 	margin: 10px;
 	background-color: #fff;
 	border-radius: 5px;
 	box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2);
+	transition: 1s;
 	overflow: hidden;
 	width: 300px;
+  }
+
+  .card:hover {
+	box-shadow: 0 10px 60px rgba(0, 0, 0, 0.2);
   }
   .card-header img {
 	width: 100%;
