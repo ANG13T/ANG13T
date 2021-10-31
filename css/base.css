@@ -515,6 +515,10 @@ textarea {
 	align-items: flex-start;
 	padding: 20px;
   }
+
+  .card-body h4 {
+	  margin-bottom: 1.3rem;
+  }
   
   .tag {
 	background: #cccccc;
@@ -526,10 +530,14 @@ textarea {
 	text-transform: uppercase;
 	cursor: pointer;
   }
+
+  .card-icons i {
+	  margin-right: 1.3rem;
+  }
   
   .card-body p {
 	font-size: 13px;
-	margin: 0 0 40px;
+	margin-bottom: 10px;
   }
   
 
