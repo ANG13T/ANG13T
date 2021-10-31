@@ -623,6 +623,13 @@ label > input[type="checkbox"], label > input[type="radio"] {
 	list-style: none;
 }
 
+.skill-list li i{
+	margin-right: 1rem;
+}
+
+.skill-list li {
+	font-size: 23px !important;
+}
 /**
  * Style Placeholder Text  
  * -
