@@ -865,11 +865,12 @@ header .logo a {
 	padding: 0;
 	border: none;
 	font: 0/0 a;
+	background: url("../images/icon_logo.png") no-repeat center;
 	text-shadow: none;
 	color: transparent;
-	width: 92px;
-	height: 15px;
-	background-size: 92px 15px;
+	width: 100px;
+	height: 50px;
+	background-size: 100px 50px;
 }
 
 /**
