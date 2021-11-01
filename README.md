@@ -5,15 +5,13 @@ I'm a Software Developer and UI/UX Designer who loves making websites and applic
 
 ### 👷 Check out what I'm currently working on
 
-- [nestdotland/template](https://github.com/nestdotland/template) - 📜 A template repository for nest.land
-- [maximousblk/serve](https://github.com/maximousblk/serve) - A super simple Deno file server
-- [nestdotland/db](https://github.com/nestdotland/db) - [WIP] 🗄️ Nest DB migrations
+- [angelina-tsuboi/RustCLI](https://github.com/angelina-tsuboi/RustCLI) - A Rust CLI application to improve terminal design and organization
 
 ### 🛠 My latest projects
 
-- [maximousblk/probot-nextjs-starter](https://github.com/maximousblk/probot-nextjs-starter) - Starter template to build GitHub Apps with Probot and NextJS.
-- [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
-- [maximousblk/wave](https://github.com/maximousblk/wave) - Vanity Arweave Wallet Generator
+- [angelina-tsuboi/Ambience](https://github.com/angelina-tsuboi/Ambience) -🎧 Discord bot designated to help you focus and work with the use of calming background noise
+- [angelina-tsuboi/DealsForMeals_App](https://github.com/angelina-tsuboi/DealsForMeals_App) - App that aims to help low-income families with finding the best deals
+- [angelina-tsuboi/Magenta](https://github.com/angelina-tsuboi/Magenta) - 🗄️ An Organized and Efficient Programming Language made using Java
 
 ### 📫 How to reach me:
 
