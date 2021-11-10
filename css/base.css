@@ -568,6 +568,15 @@ textarea {
 		padding: 0 18px;
 	}
 
+	#portfolio {
+		padding-top: 4rem;
+	}
+
+	.card {
+		margin: auto;
+		width: 90%;
+	}
+
 }
 
 /**
@@ -581,11 +590,20 @@ textarea {
 		padding-right: 30px;
 	}
 
+	.card {
+		margin: auto;
+		width: 90%;
+	}
+
 	.row .row {
 		padding-left: 0;
 		padding-right: 0;
 		margin-left: -15px;
 		margin-right: -15px;
+	}
+
+	#portfolio {
+		padding-top: 4rem;
 	}
 
 	[class*="col-"] {
@@ -628,6 +646,15 @@ textarea {
 		padding-right: 25px;
 	}
 
+	#portfolio {
+		padding-top: 4rem;
+	}
+
+	.card {
+		margin: auto;
+		width: 90%;
+	}
+
 	.row .row {
 		margin-left: -10px;
 		margin-right: -10px;
@@ -665,6 +692,15 @@ textarea {
 		padding-right: 0;
 		margin-left: 0;
 		margin-right: 0;
+	}
+
+	#portfolio {
+		padding-top: 4rem;
+	}
+
+	.card {
+		margin: auto;
+		width: 90%;
 	}
 
 	[class*="col-"] {
