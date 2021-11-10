@@ -509,9 +509,9 @@ textarea {
 	transition: 1s;
 	overflow: hidden;
 	width: 300px;
-	margin-left: 2rem;
-	margin-bottom: 4rem;
-	margin-right: 2rem;
+	margin-left: 1rem;
+	margin-bottom: 3rem;
+	margin-right: 1rem;
   }
 
   .card:hover {
