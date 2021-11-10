@@ -573,8 +573,12 @@ textarea {
 	}
 
 	.card {
-		margin: auto;
-		width: 90%;
+		margin: auto 2rem 5rem;
+		width: 100%;
+	}
+
+	.card-header img{
+		height: 275px;
 	}
 
 }
@@ -591,8 +595,12 @@ textarea {
 	}
 
 	.card {
-		margin: auto;
-		width: 90%;
+		margin: auto 2rem 5rem;
+		width: 100%;
+	}
+
+	.card-header img{
+		height: 275px;
 	}
 
 	.row .row {
@@ -651,8 +659,12 @@ textarea {
 	}
 
 	.card {
-		margin: auto;
-		width: 90%;
+		margin: auto 2rem 5rem;
+		width: 100%;
+	}
+
+	.card-header img{
+		height: 275px;
 	}
 
 	.row .row {
@@ -699,8 +711,12 @@ textarea {
 	}
 
 	.card {
-		margin: auto;
-		width: 90%;
+		margin: auto 2rem 5rem;
+		width: 100%;
+	}
+
+	.card-header img{
+		height: 275px;
 	}
 
 	[class*="col-"] {
