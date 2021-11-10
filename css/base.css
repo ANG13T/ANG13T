@@ -485,9 +485,12 @@ textarea {
 
 /* PORTFOLIO */
 #portfolio {
-	display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 1rem;
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	padding-left: 5%;
+	padding-right: 5%;
+	background-color: red;
 }
 
 .container {
@@ -496,6 +499,7 @@ textarea {
 	justify-content: space-evenly;
 	flex-wrap: wrap;
   }
+
   .card {
 	  cursor: pointer;
 	margin: 10px;
@@ -505,6 +509,8 @@ textarea {
 	transition: 1s;
 	overflow: hidden;
 	width: 300px;
+	margin-left: 1rem;
+	margin-right: 1rem;
   }
 
   .card:hover {
