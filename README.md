@@ -5,7 +5,7 @@ I'm a Software Developer and UI/UX Designer who loves making websites and applic
 
 ### 👷 Check out what I'm currently working on
 
-- [angelina-tsuboi/RustCLI](https://github.com/angelina-tsuboi/RustCLI) - A Rust CLI application to improve terminal design and organization
+- [angelina-tsuboi/ctv](https://github.com/angelina-tsuboi/RustCLI) - A highly customizable tree file view visualizer CLI application made with Rust
 
 ### 🛠 My latest projects
 
