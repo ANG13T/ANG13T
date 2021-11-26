@@ -1646,12 +1646,12 @@ header .logo a {
  *
  * ------------------------------------------------------------------- 
  */
-#portfolio {
+#project {
 	background: #FFFFFF;
 	padding-top: 12rem;
 	padding-bottom: 12rem;
 }
-#portfolio .folio-item {
+#project .folio-item {
 	padding: 0;
 	position: relative;
 	overflow: hidden;
@@ -1677,7 +1677,7 @@ header .logo a {
 	margin-bottom: 1rem;
 }
 
-#portfolio .folio-item img {
+#project .folio-item img {
 	vertical-align: middle;
 	-moz-transition: all 0.5s ease-in-out;
 	-o-transition: all 0.5s ease-in-out;
