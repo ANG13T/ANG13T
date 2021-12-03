@@ -1795,11 +1795,17 @@ header .logo a {
 }
 
 .press-flex{
-	width: 100%;
+	width: 80%;
+	margin: auto;
+	justify-content: space-between;
 	display: flex;
 	flex-wrap: wrap;
 	padding-left: 5%;
 	padding-right: 5%;
+}
+
+.press-flex .card{
+	width: 30%;
 }
 
 /**
