@@ -1795,7 +1795,7 @@ header .logo a {
 }
 
 .press-flex{
-	width: 80%;
+	width: 100%;
 	margin: auto;
 	justify-content: space-between;
 	display: flex;
