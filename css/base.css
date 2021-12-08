@@ -487,6 +487,7 @@ textarea {
 #portfolio {
 	width: 100%;
 	display: flex;
+	justify-content: space-around;
 	flex-wrap: wrap;
 	padding-left: 5%;
 	padding-right: 5%;
