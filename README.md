@@ -3,9 +3,11 @@
 
 I'm a Software Developer and UI/UX Designer who loves making websites and applications. I've had over 9 years of experience working on various websites, applications, video games, and more. I have worked for 5+ companies over my career and have learned many different technologies along the way.
 
-### 👷 Check out what I'm currently working on
+### 👷 What I'm currently working on
 
 - [angelina-tsuboi/ctv](https://github.com/angelina-tsuboi/RustCLI) - A highly customizable tree file view visualizer CLI application made with Rust
+- Drone Filming Location Finder App using Ionic and AWS Amplify (Due Date TBH)
+- My Pilot's License ✈️ 
 
 ### 🛠 My latest projects
 
