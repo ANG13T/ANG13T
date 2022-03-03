@@ -5,15 +5,17 @@ I'm a Software Developer and UI/UX Designer who loves making websites and applic
 
 ### 👷 What I'm currently working on
 
-- [angelina-tsuboi/ctv](https://github.com/angelina-tsuboi/RustCLI) - A highly customizable tree file view visualizer CLI application made with Rust
-- Drone Filming Location Finder App using Ionic and AWS Amplify (Due Date TBH)
+- [angelina-tsuboi/IAQ_Device_Dev_Log](https://github.com/angelina-tsuboi/IAQ_Device_Dev_Log) - A portable air quality device with tailorability support for the immunocompromised using Artificial Intelligence
+- Building a operating system
+- A mobile app made with Ionic to find nearby recycling stations according to items at hand
 - My Pilot's License ✈️ 
 
 ### 🛠 My latest projects
 
-- [angelina-tsuboi/Ambience](https://github.com/angelina-tsuboi/Ambience) -🎧 Discord bot designated to help you focus and work with the use of calming background noise
+- [angelina-tsuboi/snowflake-zsh-theme](https://github.com/angelina-tsuboi/snowflake-zsh-theme) - An elegant, simple, and neat ZSH theme with a color palette that harmonizes with dark themes
+- [angelina-tsuboi/ctv](https://github.com/angelina-tsuboi/RustCLI) - A highly customizable tree file view visualizer CLI application made with Rust
 - [angelina-tsuboi/DealsForMeals_App](https://github.com/angelina-tsuboi/DealsForMeals_App) - App that aims to help low-income families with finding the best deals
-- [angelina-tsuboi/Magenta](https://github.com/angelina-tsuboi/Magenta) - 🗄️ An Organized and Efficient Programming Language made using Java
+- [angelina-tsuboi/Magenta](https://github.com/angelina-tsuboi/Magenta) - An Organized and Efficient Programming Language made using Java
 
 ### 📫 How to reach me:
 
