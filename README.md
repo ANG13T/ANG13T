@@ -6,13 +6,13 @@ I'm a Software Developer and UI/UX Designer who loves making websites and applic
 ### 👷 What I'm currently working on
 
 - [angelina-tsuboi/IAQ_Device_Dev_Log](https://github.com/angelina-tsuboi/IAQ_Device_Dev_Log) - A portable air quality device with tailorability support for the immunocompromised using Artificial Intelligence
-- Building a operating system
-- A mobile app made with Ionic to find nearby recycling stations according to items at hand
+- Building an operating system
+- A mobile app to help budding pilots find resources to fund their pilot's license
 - My Pilot's License ✈️ 
 
 ### 🛠 My latest projects
 
-- [angelina-tsuboi/snowflake-zsh-theme](https://github.com/angelina-tsuboi/snowflake-zsh-theme) - An elegant, simple, and neat ZSH theme with a color palette that harmonizes with dark themes
+- [angelina-tsuboi/AVBEAR_NFT_Generation](https://github.com/angelina-tsuboi/AVBEAR_NFT_Generation) - Aviation Bears (AVBEAR) NFT generation script using the HashLips engine. Capable of generating 3125 NFTs and 100 NFTs available on OpenSea
 - [angelina-tsuboi/ctv](https://github.com/angelina-tsuboi/RustCLI) - A highly customizable tree file view visualizer CLI application made with Rust
 - [angelina-tsuboi/DealsForMeals_App](https://github.com/angelina-tsuboi/DealsForMeals_App) - App that aims to help low-income families with finding the best deals
 - [angelina-tsuboi/Magenta](https://github.com/angelina-tsuboi/Magenta) - An Organized and Efficient Programming Language made using Java
