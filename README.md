@@ -5,13 +5,14 @@ I'm a Software Developer and UI/UX Designer who loves making websites and applic
 
 **Current Projects**
 
-- 🛠  [Oura](https://github.com/angelina-tsuboi/IAQ_Device_Dev_Log): A portable air quality device with tailorability support for the immunocompromised
+- ✈️  [Pilot Fast Track](https://pilotfasttrack.com/): An app to find personalized flight scholarships
 - 🖥  Researcher for [UCLA Human Computer Interface Lab](https://hci.ucla.edu/)
-- ✈️  [Pilot Fast Track](): An app to find personalized flight scholarships
-- 😸 Developer for [HakCat](https://hakcat.com) working on the [USB Nugget](https://usbnugget.com/)
+- 🕵️‍♀️  ADS-B Spoof Detection Research via Raspberry Pi and SDR
+- 😸  Developer for [HakCat](https://hakcat.com) working on the [USB Nugget](https://usbnugget.com/)
 
 **Latest Work**
 
+- 🛠  [Oura](https://github.com/angelina-tsuboi/IAQ_Device_Dev_Log): A portable air quality device with tailorability support for the immunocompromised
 - ⌚️ [Pocket CPR](https://github.com/angelina-tsuboi/Pocket_CPR): Apple Watch app that teaches the basics of CPR
 - 🎄 [CTV](https://github.com/angelina-tsuboi/RustCLI): A highly customizable tree file view visualizer CLI application made with Rust
 - 📱 [DealsForMeals](https://github.com/angelina-tsuboi/DealsForMeals_App): App that aims to help low-income families with finding the best deals
