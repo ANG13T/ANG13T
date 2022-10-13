@@ -6,7 +6,7 @@ I'm a Software Developer and UI/UX Designer who loves making websites and applic
 **Current Projects**
 
 - ✈️  [Pilot Fast Track](https://pilotfasttrack.com/): An app to find personalized flight scholarships
-- 🖥  Researcher for [UCLA Human Computer Interface Lab](https://hci.ucla.edu/)
+- 🖥  Researcher for [UCLA Human Computer Interaction Lab](https://hci.ucla.edu/)
 - 🕵️‍♀️  ADS-B Spoof Detection Research via Raspberry Pi and SDR
 - 😸  Developer for [HakCat](https://hakcat.com) working on the [USB Nugget](https://usbnugget.com/)
 
