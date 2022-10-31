@@ -1,7 +1,7 @@
 <img src="https://github.com/angelina-tsuboi/angelina-tsuboi/blob/master/images/Headline.png" width="600">
 
 
-I'm a Software Developer, Tinkerer, and Aspiring Mechatronics Engineer. I have over 9 years of experience working on various websites, applications, hardware/engineering projects, and more. I have worked for 8+ companies over my career and have learned many different technologies along the way.
+I am a Software Developer, Tinkerer, and Aspiring Mechatronics Engineer. I have over 9 years of experience working on various websites, applications, hardware/engineering projects, and more. I have worked for 8+ companies over my career and have learned many different technologies along the way.
 
 **Current Projects**
 
