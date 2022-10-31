@@ -1,7 +1,7 @@
 <img src="https://github.com/angelina-tsuboi/angelina-tsuboi/blob/master/images/Headline.png" width="600">
 
 
-I'm a Software Developer, Tinkerer, and Aspiring Mechatronics Engineer. I've had over 9 years of experience working on various websites, applications, hardware/engineering projects, and more. I have worked for 5+ companies over my career and have learned many different technologies along the way.
+I'm a Software Developer, Tinkerer, and Aspiring Mechatronics Engineer. I have over 9 years of experience working on various websites, applications, hardware/engineering projects, and more. I have worked for 8+ companies over my career and have learned many different technologies along the way.
 
 **Current Projects**
 
@@ -11,7 +11,7 @@ I'm a Software Developer, Tinkerer, and Aspiring Mechatronics Engineer. I've had
 - 😸  Developer for [HakCat](https://hakcat.com) working on the [USB Nugget](https://usbnugget.com/)
 
 **Latest Work**
-
+- 🕵️‍♀️  [WiCon Kit](https://github.com/angelina-tsuboi/ESP8266-WiCon-Kit): A compact and portable WiFi reconnaissance suite based on the ESP8266
 - 🛠  [Oura](https://github.com/angelina-tsuboi/IAQ_Device_Dev_Log): A portable air quality device with tailorability support for the immunocompromised
 - ⌚️ [Pocket CPR](https://github.com/angelina-tsuboi/Pocket_CPR): Apple Watch app that teaches the basics of CPR
 - 🎄 [CTV](https://github.com/angelina-tsuboi/RustCLI): A highly customizable tree file view visualizer CLI application made with Rust
