@@ -5,12 +5,14 @@ I am a Software Developer, Tinkerer, and Aspiring Mechatronics Engineer. I have 
 
 **Current Projects**
 
-- ✈️  [Pilot Fast Track](https://pilotfasttrack.com/): An app to find personalized flight scholarships
+- 🌊  Tsunami Detection Research with Microcontrollers
+- 📻  APRS TNC for EM-COMMs and Hiking based off the D1 Mini and the Arduino Pro Mini 
 - 🖥  Researcher for [UCLA Human Computer Interaction Lab](https://hci.ucla.edu/)
 - 🕵️‍♀️  ADS-B Spoof Detection Research via Raspberry Pi and SDR
 - 😸  Developer for [HakCat](https://hakcat.com) working on the [USB Nugget](https://usbnugget.com/)
 
 **Latest Work**
+- ✈️  [Pilot Fast Track](https://pilotfasttrack.com/): An app to find personalized flight scholarships
 - 🕵️‍♀️  [WiCon Kit](https://github.com/angelina-tsuboi/ESP8266-WiCon-Kit): A compact and portable WiFi reconnaissance suite based on the ESP8266
 - 🛠  [Oura](https://github.com/angelina-tsuboi/IAQ_Device_Dev_Log): A portable air quality device with tailorability support for the immunocompromised
 - ⌚️ [Pocket CPR](https://github.com/angelina-tsuboi/Pocket_CPR): Apple Watch app that teaches the basics of CPR
