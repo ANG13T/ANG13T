@@ -9,7 +9,7 @@ I am a Software Developer, Tinkerer, and Aspiring Mechatronics Engineer. I have 
 - 📻  APRS TNC for EM-COMMs and Hiking based off the D1 Mini and the Arduino Pro Mini 
 - 🖥  Researcher for [UCLA Human Computer Interaction Lab](https://hci.ucla.edu/)
 - 🕵️‍♀️  ADS-B Spoof Detection Research via Raspberry Pi and SDR
-- 📡 A 2.4Ghz WiFi Traffic Analyzer Toolkit with AP and SSID Tracking Functionality made with the D1 Mini and NRF24
+- 📡 A 2.4Ghz WiFi Traffic Analyzer Toolkit made with the D1 Mini and NRF24
 - 😸  Developer for [HakCat](https://hakcat.com) working on the [USB Nugget](https://usbnugget.com/)
 
 **Latest Work**
