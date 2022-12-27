@@ -10,6 +10,7 @@ I am a Software Developer, Tinkerer, and Aspiring Mechatronics Engineer. I have 
 - 🖥  Researcher for [UCLA Human Computer Interaction Lab](https://hci.ucla.edu/)
 - 🕵️‍♀️  ADS-B Spoof Detection Research via Raspberry Pi and SDR
 - 😸  Developer for [HakCat](https://hakcat.com) working on the [USB Nugget](https://usbnugget.com/)
+- 🎨 Chrome Extension to save custom web template palettes 
 
 **Latest Work**
 - 📡  [n-RFi Monitor](https://github.com/angelina-tsuboi/nRFi-Monitor): A 2.4Ghz WiFi Traffic Analyzer Toolkit made with the D1 Mini and NRF24
