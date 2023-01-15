@@ -7,7 +7,7 @@ I am a Software Developer, Tinkerer, and Aspiring Mechatronics Engineer. I have 
 
 - 🌊  Tsunami Detection Research with Microcontrollers
 - 📻  APRS TNC for EM-COMMs and Hiking based off the D1 Mini and the Arduino Pro Mini 
-- 🔎  OSINT tool that retrieves information about IP addresses connected to a specified network
+- 🔎  CLI tool that performs network analysis, OSINT, and attack detection
 - 🖥  Researcher for [UCLA Human Computer Interaction Lab](https://hci.ucla.edu/)
 - 🕵️‍♀️  ADS-B Spoof Detection Research via Raspberry Pi and SDR
 - 😸  Developer for [HakCat](https://hakcat.com) working on the [USB Nugget](https://usbnugget.com/)
