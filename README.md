@@ -10,7 +10,8 @@ I am a Software Developer, Tinkerer, and Aspiring Mechatronics Engineer. I have 
 - 🕵️‍♀️  ADS-B Spoof Detection Research via Raspberry Pi and SDR
 - 😸  Developer for [HakCat](https://hakcat.com) working on the [USB Nugget](https://usbnugget.com/)
 - 🎨 Chrome Extension to save custom web template palettes
-- 🌸 Cherry Blossom PCB Wearable Necklace that Shines! 
+- 🌸 Cherry Blossom PCB Wearable Necklace that Shines!
+- 📱  A Couple of Apps...
 
 **Latest Work**
 - 🔎  [netspionage](https://github.com/angelina-tsuboi/netspionage): Network Analysis utility that performs network scanning, OSINT, and attack detection
