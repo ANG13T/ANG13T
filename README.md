@@ -4,16 +4,15 @@
 I am a Software Developer, Tinkerer, and Aspiring Mechatronics Engineer. I have over 9 years of experience working on various websites, applications, hardware/engineering projects, and more. I have worked for 8+ companies over my career and have learned many different technologies along the way.
 
 **Current Projects**
-
 - 🌊  Tsunami Detection Research with Microcontrollers
 - 📻  APRS TNC for EM-COMMs and Hiking based off the D1 Mini and the Arduino Pro Mini 
-- 🔎  Network Analysis CLI framework that performs network scanning, OSINT, and attack detection
 - 🖥  Researcher for [UCLA Human Computer Interaction Lab](https://hci.ucla.edu/)
 - 🕵️‍♀️  ADS-B Spoof Detection Research via Raspberry Pi and SDR
 - 😸  Developer for [HakCat](https://hakcat.com) working on the [USB Nugget](https://usbnugget.com/)
 - 🎨 Chrome Extension to save custom web template palettes 
 
 **Latest Work**
+- 🔎  [netspionage](https://github.com/angelina-tsuboi/netspionage): Network Analysis utility that performs network scanning, OSINT, and attack detection
 - 📡  [n-RFi Monitor](https://github.com/angelina-tsuboi/nRFi-Monitor): A 2.4Ghz WiFi Traffic Analyzer Toolkit made with the D1 Mini and NRF24
 - ✈️  [Pilot Fast Track](https://pilotfasttrack.com/): An app to find personalized flight scholarships
 - 🕵️‍♀️  [WiCon Kit](https://github.com/angelina-tsuboi/ESP8266-WiCon-Kit): A compact and portable WiFi reconnaissance suite based on the ESP8266
