@@ -1,7 +1,7 @@
 <img src="https://github.com/ANG13T/ANG13T/blob/master/images/Headline.png" width="600">
 
 
-Hi, I'm Angelina (aka ANG13T). I am a Software Developer, Tinkerer, and Aspiring Mechatronics Engineer. I have over 9 years of experience working on various websites, applications, hardware/engineering projects, and more. I have worked for 8+ companies over my career and have learned many different technologies along the way.
+Hi, I'm Angelina (aka ANG13T or G4LXY). I am a Software Developer, Tinkerer, Cybersecurity Enthusiast, and Aspiring Mechatronics Engineer. I have over 9 years of experience working on various websites, applications, hardware/engineering projects, and more. I have worked for 8+ companies over my career and have learned many different technologies along the way.
 
 **Current Projects**
 - 🌊  Tsunami Detection Research with Microcontrollers
