@@ -9,11 +9,11 @@ Hi, I'm Angelina (aka ANG13T or G4LXY). I am a Software Developer, Tinkerer, Cyb
 - 🖥  Researcher for [UCLA Human Computer Interaction Lab](https://hci.ucla.edu/)
 - 🕵️‍♀️  ADS-B Spoof Detection Research via Raspberry Pi and SDR
 - 😸  Developer for [HakCat](https://hakcat.com) working on the [USB Nugget](https://usbnugget.com/)
-- 🎨 Chrome Extension to save custom web template palettes
 - 🌸 Cherry Blossom PCB Wearable Necklace that Shines!
 - 📱  A Couple of Apps...
 
 **Latest Work**
+- 🎨  [designr](https://github.com/ANG13T/designr): Chrome extension that inspects CSS styles and saves snapshots of web designs
 - 🔎  [netspionage](https://github.com/ANG13T/netspionage): Network Analysis utility that performs network scanning, OSINT, and attack detection
 - 📡  [n-RFi Monitor](https://github.com/ANG13T/nRFi-Monitor): A 2.4Ghz WiFi Traffic Analyzer Toolkit made with the D1 Mini and NRF24
 - ✈️  [Pilot Fast Track](https://pilotfasttrack.com/): An app to find personalized flight scholarships
@@ -21,7 +21,6 @@ Hi, I'm Angelina (aka ANG13T or G4LXY). I am a Software Developer, Tinkerer, Cyb
 - 🛠  [Oura](https://github.com/ANG13T/IAQ_Device_Dev_Log): A portable air quality device with tailorability support for the immunocompromised
 - ⌚️ [Pocket CPR](https://github.com/ANG13T/Pocket_CPR): Apple Watch app that teaches the basics of CPR
 - 🎄 [CTV](https://github.com/ANG13T/RustCLI): A highly customizable tree file view visualizer CLI application made with Rust
-- 📱 [DealsForMeals](https://github.com/ANG13T/DealsForMeals_App): App that aims to help low-income families with finding the best deals
 - 👾 [Magenta](https://github.com/ANG13T/Magenta): An organized and efficient programming language made using Java
 
 ---
