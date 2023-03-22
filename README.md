@@ -20,7 +20,7 @@ Hi, I'm Angelina (aka ANG13T or G4LXY). I am a Software Developer, Tinkerer, Cyb
 - 🕵️‍♀️  [WiCon Kit](https://github.com/ANG13T/ESP8266-WiCon-Kit): A compact and portable WiFi reconnaissance suite based on the ESP8266
 - 🛠  [Oura](https://github.com/ANG13T/IAQ_Device_Dev_Log): A portable air quality device with tailorability support for the immunocompromised
 - ⌚️ [Pocket CPR](https://github.com/ANG13T/Pocket_CPR): Apple Watch app that teaches the basics of CPR
-- 🎄 [CTV](https://github.com/ANG13T/RustCLI): A highly customizable tree file view visualizer CLI application made with Rust
+- 🎄 [CTV](https://github.com/ANG13T/ctv): A highly customizable tree file view visualizer CLI application made with Rust
 - 👾 [Magenta](https://github.com/ANG13T/Magenta): An organized and efficient programming language made using Java
 
 ---
