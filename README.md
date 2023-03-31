@@ -10,7 +10,7 @@ Hi, I'm Angelina (aka ANG13T or G4LXY). I am a Software Developer, Tinkerer, Cyb
 - 🕵️‍♀️  ADS-B Spoof Detection Research via Raspberry Pi and SDR
 - 😸  Developer for [HakCat](https://hakcat.com) working on the [USB Nugget](https://usbnugget.com/)
 - 🌸 Cherry Blossom PCB Wearable Necklace that Shines!
-- 📱  An app to find the best dineries near you using GPT-3
+- 📱  App to find the best dineries near you using GPT-3
 
 **Latest Work**
 - 🎨  [designr](https://github.com/ANG13T/designr): Chrome extension that inspects CSS styles and saves snapshots of web designs
