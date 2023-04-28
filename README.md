@@ -11,6 +11,7 @@ Hi, I'm Angelina (aka ANG13T or G4LXY). I am a Software Developer, Mechatronics 
 - 😸  Developer for [HakCat](https://hakcat.com) working on the [USB Nugget](https://usbnugget.com/)
 - 🌸 Cherry Blossom PCB Wearable Necklace that Shines!
 - 📱  App to find the best dineries near you using GPT-3
+- 🔒 Input Web Vulnerability Validation Library for Spring Boot Applications
 
 **Latest Work**
 - 🎨  [designr](https://github.com/ANG13T/designr): Chrome extension that inspects CSS styles and saves snapshots of web designs
