@@ -14,6 +14,7 @@ Hi, I'm Angelina (aka ANG13T or G4LXY). I am a Software Developer, Mechatronics 
 - 🔒 Input Web Vulnerability Validation Library for Spring Boot Applications
 
 **Latest Work**
+- 🛰 [SatIntel](https://github.com/ANG13T/SatIntel): OSINT tool for satellites that extracts telemetry and orbital predictions
 - 🎨  [designr](https://github.com/ANG13T/designr): Chrome extension that inspects CSS styles and saves snapshots of web designs
 - 🔎  [netspionage](https://github.com/ANG13T/netspionage): Network Analysis utility that performs network scanning, OSINT, and attack detection
 - 📡  [n-RFi Monitor](https://github.com/ANG13T/nRFi-Monitor): A 2.4Ghz WiFi Traffic Analyzer Toolkit made with the D1 Mini and NRF24
@@ -21,7 +22,6 @@ Hi, I'm Angelina (aka ANG13T or G4LXY). I am a Software Developer, Mechatronics 
 - 🕵️‍♀️  [WiCon Kit](https://github.com/ANG13T/ESP8266-WiCon-Kit): A compact and portable WiFi reconnaissance suite based on the ESP8266
 - 🛠  [Oura](https://github.com/ANG13T/IAQ_Device_Dev_Log): A portable air quality device with tailorability support for the immunocompromised
 - ⌚️ [Pocket CPR](https://github.com/ANG13T/Pocket_CPR): Apple Watch app that teaches the basics of CPR
-- 🎄 [CTV](https://github.com/ANG13T/ctv): A highly customizable tree file view visualizer CLI application made with Rust
 - 👾 [Magenta](https://github.com/ANG13T/Magenta): An organized and efficient programming language made using Java
 
 ---
