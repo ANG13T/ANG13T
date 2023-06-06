@@ -52,5 +52,24 @@ I am deeply fascinated by the fields of astronomy, aerospace, and aeronautics, a
 
 ---
 ## *Support my Work*
-[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.linkedin.com/in/angelina-tsuboi-322028211/)
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.linkedin.com/in/angelina-tsuboi-322028211/)
+[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/angelinatsuboi)
+[![Cash App](https://img.shields.io/badge/CashApp-01D21C?style=for-the-badge&logo=cashapp&logoColor=white)](https://cash.app/$G4LXY)
+ [![Buy Me A Coffee](https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge)](https://www.buymeacoffee.com/angelinatsuboi)
+<details open>
+
+  <summary>Cryptocurrency List</summary>
+ 
+ <br />
+
+| Currency          | Wallet Address                                                                                               |
+|-------------------|--------------------------------------------------------------------------------------------------------------|
+| Bitcoin (BTC)     | bc1qd7aje4almpz2aj9ckgjpql79n6furusxw9vwyc                                                                   |
+| Ethereum (ETH)    | 0xB233154f705D4b6C87ae7eC14e10e47e6584EC09                                                                   |
+| Monero (XMR)      | 41xvuz7VNfrWVzUKyYEvDE61nDBs2Tj4T13rKeFbiJtXLdbrbmrMUZWH92pYTc5S1t83otHELKm14i8v1SRUmVe2LHLHuU5              |
+| BNB               | bnb1tnt6qvju5e745qwtg0rpdpw5e8gjmjxc28j8d2                                                                   |
+| Satoshi (SAT)     | lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm30d3h82unvwqhkxctvd45kuemrwfhhqven3tmzv9 |
+| Nano (XNO)        | nano_31t1r4guf1rdkykoa6d71ecxwn9zgqqfi19565erq9x56fou4acxqk1inw7d                                            |
+| Tether USD (USDT) | 0xB233154f705D4b6C87ae7eC14e10e47e6584EC09                                                                   |
+| Solana (SOL)      | 4LVYBNiSfDUbDafvhX8crKBxcw1psJjVxawvevL5V496                                                                 |
+
+</details>
