@@ -7,7 +7,7 @@ Heya! I'm Angelina Tsuboi (aka G4LXY or ANG13T).
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angelina_tsuboi)
  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AngelinaTsuboi)
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelina-tsuboi-322028211/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](mailto:angelinatsuboi@proton.me)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@angelinatsuboi)
  [![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:angelinatsuboi@proton.me)
  
 <h3><b><u>Mechatronics Developer 🛠</u></b></h3>
@@ -38,9 +38,9 @@ I code websites, mobile apps, command line tools, and utilities. I have extensiv
 
 I write extensive research articles on platforms such as Hackernoon and Medium. I also make cybersecurity video content for Retia and SecurityFWD.
 
-- 📝  Writer for [Medium](https://hci.ucla.edu/) and Hackernoon()
+- 📝  Writer for [Medium](https://medium.com/@angelinatsuboi) and [Hackernoon](https://hackernoon.com/u/angelinatsuboi)
 - 🖥  Researcher for [UCLA Human Computer Interaction Lab](https://hci.ucla.edu/)
-- 🎥  Content Creator for [Retia](https://hci.ucla.edu/) and [SecurityFWD]()
+- 🎥  Content Creator for [Retia](https://www.youtube.com/watch?v=8KE9WTDIas8) and [SecurityFWD](https://www.youtube.com/watch?v=8KE9WTDIas8)
 
 <h3><b><u>Aerospace Enthusiast 🚀</u></b></h3>
 
