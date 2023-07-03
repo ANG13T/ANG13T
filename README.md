@@ -14,7 +14,7 @@ Heya! I'm Angelina Tsuboi (aka G4LXY or ANG13T).
 
 I build hardware prototypes, educational PCBs, 3D enclosures, and other multidisciplinary projects.
 
-- 🕵️‍♀️  [WiCon Kit](https://github.com/ANG13T/ESP8266-WiCon-Kit): A compact and portable WiFi reconnaissance suite based on the ESP8266
+- 🕵️‍♀️ [WiCon Kit](https://github.com/ANG13T/ESP8266-WiCon-Kit): A compact and portable WiFi reconnaissance suite based on the ESP8266
 - 🛠  [Oura](https://github.com/ANG13T/IAQ_Device_Dev_Log): A portable air quality device with tailorability support for the immunocompromised
 
 <h3><b><u>Cybersecurity Researcher 🔒</u></b></h3>
