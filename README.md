@@ -34,10 +34,11 @@ I code websites, mobile apps, command line tools, and utilities. I have extensiv
 - ✈️  [Pilot Fast Track](https://pilotfasttrack.com/): An app to find personalized flight scholarships
 - 👾 [Magenta](https://github.com/ANG13T/Magenta): An organized and efficient programming language made using Java
 
-<h3><b><u>Content Creator & Researcher 📝</u></b></h3>
+<h3><b><u>Scientific Researcher & Content Creator ⚡️</u></b></h3>
 
 I write extensive research articles on platforms such as Hackernoon and Medium. I also make cybersecurity video content for Retia and SecurityFWD.
 
+- 💫 Researching electromagnetism, quantum mechanics, astrophysics, and bioelectricity
 - 📝  Writer for [Medium](https://medium.com/@angelinatsuboi) and [Hackernoon](https://hackernoon.com/u/angelinatsuboi)
 - 🖥  Researcher for [UCLA Human Computer Interaction Lab](https://hci.ucla.edu/)
 - 🎥  Content Creator for [Retia](https://www.youtube.com/watch?v=8KE9WTDIas8) and [SecurityFWD](https://www.youtube.com/watch?v=8KE9WTDIas8)
