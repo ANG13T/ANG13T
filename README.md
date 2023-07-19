@@ -20,10 +20,9 @@ I build hardware prototypes, educational PCBs, 3D enclosures, and other multidis
 <h3><b><u>Cybersecurity Researcher 🔒</u></b></h3>
 
 I develop aerospace, microcontroller, and reconnaissance cybersecurity tools in Python, C, and Golang. 
-
-- Developer for [Retia](https://retia.io)
+- 🗺  [DroneXtract](https://github.com/ANG13T/DroneXtract): Digital forensics suite for DJI drones 
 - 🔎  [netspionage](https://github.com/ANG13T/netspionage): Network Analysis utility that performs network scanning, OSINT, and attack detection
-- 📡  [n-RFi Monitor](https://github.com/ANG13T/nRFi-Monitor): A 2.4Ghz WiFi Traffic Analyzer Toolkit made with the D1 Mini and NRF24
+- 📡  [n-RFi Monitor](https://github.com/ANG13T/nRFi-Monitor): A 2.4GHz WiFi Traffic Analyzer Toolkit made with the D1 Mini and NRF24
 
 <h3><b><u>Software Developer 💻</u></b></h3>
 
