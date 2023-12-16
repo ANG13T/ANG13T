@@ -50,6 +50,12 @@ I am deeply fascinated by the fields of astronomy, aerospace, and aeronautics, a
 - Pilot flying out of KSMO
 - 🛰 [SatIntel](https://github.com/ANG13T/SatIntel): OSINT tool for satellites that extracts telemetry and orbital predictions
 
+
+<h3><b><u>Currently Learning ⚡️</u></b></h3>
+- Astrophysics & Orbital Dynamics & Astrobiology
+- Bioelectricity and Bioelectric RF Interfaces
+- AI & Web3 & Quantum
+- Computational Semantics & Linguistics
 ---
 ## *Support my Work*
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/angelinatsuboi)
