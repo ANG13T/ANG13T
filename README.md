@@ -52,10 +52,13 @@ I am deeply fascinated by the fields of astronomy, aerospace, and aeronautics, a
 
 
 <h3><b><u>Currently Learning ⚡️</u></b></h3>
+
 - Astrophysics & Orbital Dynamics & Astrobiology
-- Bioelectricity and Bioelectric RF Interfaces
+- Bioelectricity & Bioelectric RF Interfaces
 - AI & Web3 & Quantum
 - Computational Semantics & Linguistics
+
+
 ---
 ## *Support my Work*
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/angelinatsuboi)
