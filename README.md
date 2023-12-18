@@ -14,50 +14,86 @@ Heya! I'm Angelina Tsuboi (aka G4LXY or ANG13T).
 
 I build hardware prototypes, educational PCBs, 3D enclosures, and other multidisciplinary projects.
 
+<details>
+
+<summary>View Projects</summary>
+
 - 🕵️‍♀️ [WiCon Kit](https://github.com/ANG13T/ESP8266-WiCon-Kit): A compact and portable WiFi reconnaissance suite based on the ESP8266
 - 🛠  [Oura](https://github.com/ANG13T/IAQ_Device_Dev_Log): A portable air quality device with tailorability support for the immunocompromised
+</details>
 
 <h3><b><u>Cybersecurity Researcher 🔒</u></b></h3>
 
 I develop aerospace, microcontroller, and reconnaissance cybersecurity tools in Python, C, and Golang. 
+
+<details>
+
+<summary>View Projects</summary>
 - 🗺  [DroneXtract](https://github.com/ANG13T/DroneXtract): Digital forensics suite for DJI drones 
 - 🔎  [netspionage](https://github.com/ANG13T/netspionage): Network Analysis utility that performs network scanning, OSINT, and attack detection
 - 📡  [n-RFi Monitor](https://github.com/ANG13T/nRFi-Monitor): A 2.4GHz WiFi Traffic Analyzer Toolkit made with the D1 Mini and NRF24
+
+</details>
 
 <h3><b><u>Software Developer 💻</u></b></h3>
 
 I code websites, mobile apps, command line tools, and utilities. I have extensive experience working frameworks, tools, and languages. I am experienced in 18 programming languages. 
 
+<details>
+
+<summary>View Projects</summary>
+ 
 - 🎨  [designr](https://github.com/ANG13T/designr): Chrome extension that inspects CSS styles and saves snapshots of web designs
 - ⌚️ [Pocket CPR](https://github.com/ANG13T/Pocket_CPR): Apple Watch app that teaches the basics of CPR
 - ✈️  [Pilot Fast Track](https://pilotfasttrack.com/): An app to find personalized flight scholarships
 - 👾 [Magenta](https://github.com/ANG13T/Magenta): An organized and efficient programming language made using Java
 
+</details>
+
 <h3><b><u>Scientific Researcher & Content Creator ⚡️</u></b></h3>
 
 I write extensive research articles on platforms such as Hackernoon and Medium. I also make cybersecurity video content for Retia and SecurityFWD.
+
+<details>
+
+<summary>View Projects</summary>
 
 - 💫 Researching electromagnetism, quantum mechanics, astrophysics, and bioelectricity
 - 📝  Writer for [Medium](https://medium.com/@angelinatsuboi) and [Hackernoon](https://hackernoon.com/u/angelinatsuboi)
 - 🖥  Researcher for [UCLA Human Computer Interaction Lab](https://hci.ucla.edu/)
 - 🎥  Content Creator for [Retia](https://www.youtube.com/watch?v=8KE9WTDIas8) and [SecurityFWD](https://www.youtube.com/watch?v=8KE9WTDIas8)
 
+</details>
+
 <h3><b><u>Aerospace Enthusiast 🚀</u></b></h3>
 
 I am deeply fascinated by the fields of astronomy, aerospace, and aeronautics, and find ways to merge my passion for space with my core skill sets. 
+<details>
+
+<summary>View Projects</summary>
 
 - NASA SEES Intern
 - Pilot flying out of KSMO
 - 🛰 [SatIntel](https://github.com/ANG13T/SatIntel): OSINT tool for satellites that extracts telemetry and orbital predictions
 
+</details>
 
 <h3><b><u>Currently Learning ⚡️</u></b></h3>
 
-- Astrophysics & Orbital Dynamics & Astrobiology
-- Bioelectricity & Bioelectric RF Interfaces
-- AI & Web3 & Quantum
-- Computational Semantics & Linguistics
+I am interested in too many things spanning the realms of science, sociology, philosophy, and engineering for my own good.
+Probably stuck in a rabbit hole somewhere within the deep expanse of the cosmos 🐰🌌
+<details>
 
+<summary>View Projects</summary>
+
+- Astrophysics & Orbital Dynamics & Astrobiology
+- Bioelectricity & Bioelectric RF Interfaces & Consciousness 
+- AI & Web3 & Quantum Mechanics
+- Anything Electromagnetism Related 
+- Computational Semantics & Linguistics & Astrolinguistics
+- Artificial & Computational Intelligence
+
+</details>
 
 ---
 ## *Support my Work*
