@@ -77,8 +77,6 @@ I am deeply fascinated by the fields of astronomy, aerospace, and aeronautics, a
 I am interested in too many things spanning the realms of science, sociology, philosophy, and engineering for my own good.
 Probably stuck in a rabbit hole somewhere within the deep expanse of the cosmos 🐰🌌
 
-<summary>View Projects</summary>
-
 - Astrophysics & Orbital Dynamics & Astrobiology
 - Bioelectricity & Bioelectric RF Interfaces & Consciousness 
 - AI & Web3 & Quantum Mechanics
