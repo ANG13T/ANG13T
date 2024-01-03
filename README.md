@@ -1,6 +1,6 @@
 <img src="https://github.com/ANG13T/ANG13T/blob/master/images/Headline.png" width="600">
 
-Prolific multidisciplinary inventor, dynamic scientific researcher, and content creator 
+Prolific multidisciplinary inventor, dynamic scientific researcher, and content creator.
 
  [![Website](https://img.shields.io/badge/Website-3776AB?style=for-the-badge)](https://angelinatsuboi.com)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angelina_tsuboi)
@@ -83,6 +83,8 @@ Probably stuck in a rabbit hole somewhere within the deep expanse of the cosmos 
 - Anything Electromagnetism Related 
 - Computational Semantics & Linguistics & Astrolinguistics
 - Artificial & Computational Intelligence
+- Cybernetics
+- Photonics & Optics & Information / Communication Theory
 
 </details>
 
