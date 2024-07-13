@@ -1,16 +1,15 @@
 <img src="https://github.com/ANG13T/ANG13T/blob/master/images/banner.png" width="1000">
 
-[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=500&center=true&random=false&width=862&lines=I+am+a+programmer;I+am+a+mechatronics+developer;I+am+a+cybersecurity+researcher;I+am+an+aerospace+researcher)](https://git.io/typing-svg)
+[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=500&center=true&random=false&width=1200&lines=I+am+a+programmer;I+am+a+mechatronics+developer;I+am+a+cybersecurity+researcher;I+am+an+aerospace+researcher)](https://git.io/typing-svg)
 
 <p align="center" style="text-decoration:none;"> 
-     [![Button Shield]][Shield]
+     <a href="angelinatsuboi.com/mission" target="_blank"> 『 Mission Statement 』</a>
 </p>
-
 
 
 ---
 ## <span style="color: blue !important;">&gt;</span> Skillset
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,angular,golang,git,azure,react,vue,flutter&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,angular,golang,git,azure,react,vue,flutter,c,cpp,javascript,typescript,swift,rust,ruby,python,haskell,java,arch,bash,cs,git,kali&perline=12)](https://skillicons.dev)
 
 ---
 ## > Notable Projects
