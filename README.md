@@ -1,4 +1,4 @@
-<img src="https://github.com/ANG13T/ANG13T/blob/master/images/Headline.png" width="600">
+<img src="https://github.com/ANG13T/ANG13T/blob/master/images/banner.png" width="1000">
 
 Prolific multidisciplinary inventor, dynamic scientific researcher, and content creator.
 
@@ -89,8 +89,16 @@ Probably stuck in a rabbit hole somewhere within the deep expanse of the cosmos 
 </details>
 
 ---
+## Notable Projects
+
+[![SatIntel](https://github-readme-stats.vercel.app/api/pin/?username=ANG13T&repo=SatIntel&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ANG13T/SatIntel)
+[![DroneXtract](https://github-readme-stats.vercel.app/api/pin/?username=ANG13T&repo=DroneXtract&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ANG13T/DroneXtract)
+[![WiCon Kit](https://github-readme-stats.vercel.app/api/pin/?username=ANG13T&repo=ESP8266-WiCon-Kit&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ANG13T/ESP8266-WiCon-Kit)
+[![netspionage](https://github-readme-stats.vercel.app/api/pin/?username=ANG13T&repo=netspionage&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ANG13T/netspionage)
+
+---
 ## *Support my Work*
-[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/angelinatsuboi)
+[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/atsuboi01)
 [![Cash App](https://img.shields.io/badge/CashApp-01D21C?style=for-the-badge&logo=cashapp&logoColor=white)](https://cash.app/$G4LXY)
  [![Buy Me A Coffee](https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge)](https://www.buymeacoffee.com/angelinatsuboi)
 <details>
@@ -101,13 +109,11 @@ Probably stuck in a rabbit hole somewhere within the deep expanse of the cosmos 
 
 | Currency          | Wallet Address                                                                                               |
 |-------------------|--------------------------------------------------------------------------------------------------------------|
-| Bitcoin (BTC)     | bc1qd7aje4almpz2aj9ckgjpql79n6furusxw9vwyc                                                                   |
-| Ethereum (ETH)    | 0xB233154f705D4b6C87ae7eC14e10e47e6584EC09                                                                   |
-| Monero (XMR)      | 41xvuz7VNfrWVzUKyYEvDE61nDBs2Tj4T13rKeFbiJtXLdbrbmrMUZWH92pYTc5S1t83otHELKm14i8v1SRUmVe2LHLHuU5              |
-| BNB               | bnb1tnt6qvju5e745qwtg0rpdpw5e8gjmjxc28j8d2                                                                   |
-| Satoshi (SAT)     | lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm30d3h82unvwqhkxctvd45kuemrwfhhqven3tmzv9 |
-| Nano (XNO)        | nano_31t1r4guf1rdkykoa6d71ecxwn9zgqqfi19565erq9x56fou4acxqk1inw7d                                            |
-| Tether USD (USDT) | 0xB233154f705D4b6C87ae7eC14e10e47e6584EC09                                                                   |
-| Solana (SOL)      | 4LVYBNiSfDUbDafvhX8crKBxcw1psJjVxawvevL5V496                                                                 |
+| Bitcoin (BTC)     | bc1qqzsrdz8qa3xe2rp7aajrm88fqge9xxs3v8xu4h                                                                   |
+| Ethereum (ETH)    | 0x43edF701622F4F1174F322dC8D2f5AbdA642275a                                                                   |
+| XRP Ledger (XRP)  | rNKP3PXSstJnhUgUskNKaXWhd7ueiss6Mn                                                                           |
+| BNB               | bnb1t49kkmutyvnsc8xv7r5mu9tfu2u66qhcmqaurw                                                                   |
+| Monero (XMR)     | 4717EuNPoTrTQsiLdGSDAMAJQcze6mVuE8KmBhL9RFT43Xe2FsxWSQtc5trrfdYPS5aUjB8gJApwURcRmMFdccBCJPfeD8M               |
+| Solana (SOL)      | FcrRBcvWsqdVZpS9ZZ6Dt476QA1L95cdh7GqgUGX5RpH                                                                 |
 
 </details>
