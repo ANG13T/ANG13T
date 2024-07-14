@@ -3,7 +3,7 @@
 [![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=500&center=true&random=false&width=1200&lines=I+am+a+programmer;I+am+a+mechatronics+developer;I+am+a+cybersecurity+researcher;I+am+an+aerospace+researcher)](https://git.io/typing-svg)
 
 <p align="center" style="text-decoration:none;"> 
-     <a href="angelinatsuboi.com/mission" target="_blank"> 『 Mission Statement 』</a>
+     <a href="https://angelinatsuboi.com/mission" target="_blank"> 『 Mission Statement 』</a>
 </p>
 
 
