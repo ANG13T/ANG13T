@@ -2,7 +2,7 @@
  <img src="https://github.com/ANG13T/ANG13T/blob/master/images/banner.png" width="700" />
 </div>
 
-[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&color=4440FF&pause=500&center=true&random=false&width=1200&lines=$+Developer+focused+on+satellites+and+Mars+initiatives;)](https://git.io/typing-svg)
+[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=4440FF&pause=500&center=true&random=false&width=1200&lines=$+Developer+focused+on+satellites+and+Mars+initiatives;)](https://git.io/typing-svg)
 
 
 ---
