@@ -1,6 +1,8 @@
-<img src="https://github.com/ANG13T/ANG13T/blob/master/images/banner.png" width="1000">
+<div style="text-align: center;">
+ <img src="https://github.com/ANG13T/ANG13T/blob/master/images/banner.png" width="700" />
+</div>
 
-[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=500&center=true&random=false&width=1200&lines=I+am+a+programmer;I+am+a+mechatronics+developer;I+am+a+cybersecurity+researcher;I+am+an+aerospace+researcher)](https://git.io/typing-svg)
+[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&color=4440FF&pause=500&center=true&random=false&width=1200&lines=I+am+a+programmer+and+developer+focused+on+developing+satellites+and+Mars+initiatives;)](https://git.io/typing-svg)
 
 
 ---
